@@ -5,6 +5,7 @@ faster-whisper
 playwright
 gspread
 google-auth
+google-generativeai
 pydantic
 python-dotenv
 aiofiles
