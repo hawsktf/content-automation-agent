@@ -80,6 +80,6 @@ def test_api_key(api_key):
         return False
 
 if __name__ == "__main__":
-    api_key = "AIzaSyBJxy44630lnOU4kfgjbbDeIMwefrEcHVA"
+    api_key = ""
     success = test_api_key(api_key)
     sys.exit(0 if success else 1)
