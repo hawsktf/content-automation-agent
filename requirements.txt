@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+yt-dlp
+faster-whisper
+playwright
+gspread
+google-auth
+pydantic
+python-dotenv
+aiofiles
+jinja2
